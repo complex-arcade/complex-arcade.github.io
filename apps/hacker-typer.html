@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-HRJJ2NFMRJ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-HRJJ2NFMRJ');
+</script>
+    <script src="/loader.js"></script>
+    <script src="/tabcloak.js"></script>
+    <script src="/settings.js"></script>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hacker Typer</title>
+    <link rel="icon" type="images/logo.png" href="/images/logo.png">
+    <link rel="stylesheet" href="/main.css">
+    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v6.2.0/css/all.css">
+</head>
+<body>
+    <nav>
+        <div class="navbar-left">
+            <a href="/index.html">
+            <img src="/images/logo.png" alt="logo">
+            </a>
+            <h1>Complex Arcade</h1>
+        </div>
+        <div class="navbar-right">
+            <div class="nav-item">
+                <a href="/gxmes.html">Games</a>
+                <i class="fas fa-gamepad"></i>
+            </div>
+            <div class="nav-item">
+                <a href="/apps.html">Apps</a>
+                <i class="fas fa-mobile-alt"></i>
+            </div>
+            <div class="nav-item">
+                <a href="/extras.html">Extras</a>
+                <i class="fas fa-plus"></i>
+            </div>
+            <div class="nav-item">
+                <a href="/settings.html">Settings</a>
+                <i class="fas fa-cog"></i>
+            </div>
+    </nav>
+<div id="particles-js"></div>
+<script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
+<script src="/particle.js"></script>
+
+<div class="appframe">
+    
+
+<div class="container">
+    <iframe id="myIframe" class="game-iframe" allowfullscreen="" src="storage/hacker-typer/"></iframe>
+   <div class="bottom-div">
+       <img src="images/hackertyper.jpg" alt="Website Logo">
+       <div class="text-container">
+           <div class="website-name">Hacker Typer</div>
+           <div class="developer-name">By: Unknown</div>
+       </div>
+       <div class="button-bar">
+           <button onclick="refreshGame()">↻</button>
+           <button onclick="toggleFullscreen()">⛶</button>
+           
+       </div>
+   </div>
+</div>
+</div>
+<div class="ad">
+        <p>Advertisement</p>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1389613890904748"
+     crossorigin="anonymous"></script>
+<!-- ad1 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-1389613890904748"
+     data-ad-slot="4836174458"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+<div class="ad2">
+    <p>Advertisement 2</p>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1389613890904748"
+     crossorigin="anonymous"></script>
+<!-- ad2 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:120px;height:400px"
+     data-ad-client="ca-pub-1389613890904748"
+     data-ad-slot="8822702686"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+<div class="app-description">
+    <h2>App Description</h2>
+    <p>Hacker Typer is a fun app that simulates hacking by allowing you to type random code on the screen.</p>
+    <h2>Why should you use Complex Arcade?</h2>
+    <p>Our site features include:</p>
+    <ul>
+        <li>No downloads or installations required.</li>
+        <li>Works on laptops and over-restricted devices like school chromebooks!</li>
+        <li>Simple and intuitive interface for easy navigation.</li>
+        <li>Regularly updated with new features and improvements.</li>
+    </ul>
+    <p>Enjoy using Hacker Typer on Complex Arcade!</p>
+</div>
+
+
+<script>
+
+function toggleFullscreen() {
+    var elem = document.querySelector('.container');
+    if (!elem) return;
+    if (elem.requestFullscreen) {
+        elem.requestFullscreen();
+    } else if (elem.mozRequestFullScreen) { // Firefox
+        elem.mozRequestFullScreen();
+    } else if (elem.webkitRequestFullscreen) { // Chrome, Safari, Opera
+        elem.webkitRequestFullscreen();
+    } else if (elem.msRequestFullscreen) { // IE/Edge
+        elem.msRequestFullscreen();
+    }
+}
+
+// Hide/show .bottom-div on fullscreen change
+document.addEventListener('fullscreenchange', function() {
+    var bottomDiv = document.querySelector('.bottom-div');
+    if (!bottomDiv) return;
+    if (document.fullscreenElement) {
+        bottomDiv.style.display = 'none';
+    } else {
+        bottomDiv.style.display = '';
+    }
+});
+document.addEventListener('webkitfullscreenchange', function() { // Safari/Chrome
+    var bottomDiv = document.querySelector('.bottom-div');
+    if (!bottomDiv) return;
+    if (document.webkitFullscreenElement) {
+        bottomDiv.style.display = 'none';
+    } else {
+        bottomDiv.style.display = '';
+    }
+});
+document.addEventListener('mozfullscreenchange', function() { // Firefox
+    var bottomDiv = document.querySelector('.bottom-div');
+    if (!bottomDiv) return;
+    if (document.mozFullScreenElement) {
+        bottomDiv.style.display = 'none';
+    } else {
+        bottomDiv.style.display = '';
+    }
+});
+document.addEventListener('MSFullscreenChange', function() { // IE/Edge
+    var bottomDiv = document.querySelector('.bottom-div');
+    if (!bottomDiv) return;
+    if (document.msFullscreenElement) {
+        bottomDiv.style.display = 'none';
+    } else {
+        bottomDiv.style.display = '';
+    }
+});
+
+// ...existing code...
+</script>
+
+
+<script>
+function toggleFullscreen() {
+    var elem = document.querySelector('.container');
+    if (!elem) return;
+    if (elem.requestFullscreen) {
+        elem.requestFullscreen();
+    } else if (elem.mozRequestFullScreen) { // Firefox
+        elem.mozRequestFullScreen();
+    } else if (elem.webkitRequestFullscreen) { // Chrome, Safari, Opera
+        elem.webkitRequestFullscreen();
+    } else if (elem.msRequestFullscreen) { // IE/Edge
+        elem.msRequestFullscreen();
+    } else {
+
+        
+    }
+}
+
+function refreshGame() {
+    var iframe = document.getElementById('myIframe');
+    iframe.src = iframe.src;
+}
+
+function goBack() {
+    window.history.back();
+}
+
+
+
+</script>
+    <footer class="site-footer">
+  <div class="footer-left">
+    <a href="/index.html" class="footer-logo">
+      <img src="/images/logo.png" alt="Complex Arcade logo">
+      <span>Complex Arcade</span>
+    </a>
+  </div>
+  <div class="footer-right">
+    <div class="footer-item"><a href="/contact.html">Contact Us</a></div>
+    <div class="footer-item"><a href="/privacy.html">Privacy Policy</a></div>
+    <div class="footer-item"><a href="/about.html">About Us</a></div>
+    <div class="footer-item"><a href="/tos.html">Terms of Service</a></div>
+  </div>
+</footer>
+</body>
+</html>
+</div>
+    </div>
+    </div>
+    </div>
+</div>
+
+    

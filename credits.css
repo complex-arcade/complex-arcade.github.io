@@ -1,0 +1,39 @@
+
+.credits-container {
+  position: relative;
+  margin: 3vh auto;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(200px, 1fr));
+  gap: 4vw;
+  justify-items: center;
+  align-items: start;
+}
+
+.creditsbox {
+  background-color: #000000;
+  border: 0.15vw solid #1357a5;
+  border-radius: 0.5vw;
+  padding: 1vw;
+  height: auto;
+  width: 100%;
+  max-width: 360px;
+  margin: 0;
+  text-align: center;
+}
+
+
+    .credits-title {
+        font-size: 1.565vw;
+        font-weight: bold;
+         margin-bottom: 1.04vw;
+        color: white;
+        }
+
+.credits-description {
+    color: white;
+    font-size: 0.9vw;
+    margin-top: 0.52vw;
+}
+
+
+

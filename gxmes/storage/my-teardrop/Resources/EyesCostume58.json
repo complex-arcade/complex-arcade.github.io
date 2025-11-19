@@ -1,0 +1,267 @@
+{"frames": {
+
+"EyesCostume580000":
+{
+	"frame": {"x":4,"y":4,"w":18,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":52,"w":120,"h":120},
+	"sourceSize": {"w":120,"h":120}
+},
+"EyesCostume580001":
+{
+	"frame": {"x":27,"y":4,"w":18,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":52,"w":120,"h":120},
+	"sourceSize": {"w":120,"h":120}
+},
+"EyesCostume580002":
+{
+	"frame": {"x":50,"y":4,"w":18,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":52,"w":120,"h":120},
+	"sourceSize": {"w":120,"h":120}
+},
+"EyesCostume580003":
+{
+	"frame": {"x":73,"y":4,"w":18,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":52,"w":120,"h":120},
+	"sourceSize": {"w":120,"h":120}
+},
+"EyesCostume580004":
+{
+	"frame": {"x":96,"y":4,"w":18,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":52,"w":120,"h":120},
+	"sourceSize": {"w":120,"h":120}
+},
+"EyesCostume580005":
+{
+	"frame": {"x":119,"y":4,"w":18,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":52,"w":120,"h":120},
+	"sourceSize": {"w":120,"h":120}
+},
+"EyesCostume580006":
+{
+	"frame": {"x":142,"y":4,"w":18,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":52,"w":120,"h":120},
+	"sourceSize": {"w":120,"h":120}
+},
+"EyesCostume580007":
+{
+	"frame": {"x":165,"y":4,"w":18,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":52,"w":120,"h":120},
+	"sourceSize": {"w":120,"h":120}
+},
+"EyesCostume580008":
+{
+	"frame": {"x":188,"y":4,"w":18,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":52,"w":120,"h":120},
+	"sourceSize": {"w":120,"h":120}
+},
+"EyesCostume580009":
+{
+	"frame": {"x":211,"y":4,"w":18,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":52,"w":120,"h":120},
+	"sourceSize": {"w":120,"h":120}
+},
+"EyesCostume580010":
+{
+	"frame": {"x":234,"y":4,"w":18,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":52,"w":120,"h":120},
+	"sourceSize": {"w":120,"h":120}
+},
+"EyesCostume580011":
+{
+	"frame": {"x":4,"y":27,"w":18,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":52,"w":120,"h":120},
+	"sourceSize": {"w":120,"h":120}
+},
+"EyesCostume580012":
+{
+	"frame": {"x":27,"y":27,"w":18,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":52,"w":120,"h":120},
+	"sourceSize": {"w":120,"h":120}
+},
+"EyesCostume580013":
+{
+	"frame": {"x":50,"y":27,"w":18,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":52,"w":120,"h":120},
+	"sourceSize": {"w":120,"h":120}
+},
+"EyesCostume580014":
+{
+	"frame": {"x":73,"y":27,"w":18,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":52,"w":120,"h":120},
+	"sourceSize": {"w":120,"h":120}
+},
+"EyesCostume580015":
+{
+	"frame": {"x":96,"y":27,"w":18,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":52,"w":120,"h":120},
+	"sourceSize": {"w":120,"h":120}
+},
+"EyesCostume580016":
+{
+	"frame": {"x":119,"y":27,"w":18,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":52,"w":120,"h":120},
+	"sourceSize": {"w":120,"h":120}
+},
+"EyesCostume580017":
+{
+	"frame": {"x":142,"y":27,"w":18,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":52,"w":120,"h":120},
+	"sourceSize": {"w":120,"h":120}
+},
+"EyesCostume580018":
+{
+	"frame": {"x":165,"y":27,"w":18,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":52,"w":120,"h":120},
+	"sourceSize": {"w":120,"h":120}
+},
+"EyesCostume580019":
+{
+	"frame": {"x":188,"y":27,"w":21,"h":15},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":51,"w":120,"h":120},
+	"sourceSize": {"w":120,"h":120}
+},
+"EyesCostume580020":
+{
+	"frame": {"x":214,"y":27,"w":21,"h":15},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":51,"w":120,"h":120},
+	"sourceSize": {"w":120,"h":120}
+},
+"EyesCostume580021":
+{
+	"frame": {"x":4,"y":50,"w":19,"h":26},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":42,"w":120,"h":120},
+	"sourceSize": {"w":120,"h":120}
+},
+"EyesCostume580022":
+{
+	"frame": {"x":28,"y":50,"w":20,"h":26},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":49,"w":120,"h":120},
+	"sourceSize": {"w":120,"h":120}
+},
+"EyesCostume580023":
+{
+	"frame": {"x":53,"y":50,"w":22,"h":17},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":53,"w":120,"h":120},
+	"sourceSize": {"w":120,"h":120}
+},
+"EyesCostume580024":
+{
+	"frame": {"x":80,"y":50,"w":18,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":52,"w":120,"h":120},
+	"sourceSize": {"w":120,"h":120}
+},
+"EyesCostume580025":
+{
+	"frame": {"x":103,"y":50,"w":18,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":52,"w":120,"h":120},
+	"sourceSize": {"w":120,"h":120}
+},
+"EyesCostume580026":
+{
+	"frame": {"x":126,"y":50,"w":18,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":52,"w":120,"h":120},
+	"sourceSize": {"w":120,"h":120}
+},
+"EyesCostume580027":
+{
+	"frame": {"x":149,"y":50,"w":17,"h":13},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":54,"w":120,"h":120},
+	"sourceSize": {"w":120,"h":120}
+},
+"EyesCostume580028":
+{
+	"frame": {"x":171,"y":50,"w":18,"h":13},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":54,"w":120,"h":120},
+	"sourceSize": {"w":120,"h":120}
+},
+"EyesCostume580029":
+{
+	"frame": {"x":194,"y":50,"w":18,"h":11},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":55,"w":120,"h":120},
+	"sourceSize": {"w":120,"h":120}
+},
+"EyesCostume580030":
+{
+	"frame": {"x":217,"y":50,"w":13,"h":20},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":50,"w":120,"h":120},
+	"sourceSize": {"w":120,"h":120}
+},
+"EyesCostume580031":
+{
+	"frame": {"x":4,"y":81,"w":120,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":120},
+	"sourceSize": {"w":120,"h":120}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "24.0.9.73",
+	"image": "EyesCostume58.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":256},
+	"scale": "1"
+}
+}

@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-HRJJ2NFMRJ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-HRJJ2NFMRJ');
+</script>
+    <script src="/loader.js"></script>
+    <script src="/tabcloak.js"></script>
+    <script src="/settings.js"></script>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Complex Arcade - Extras</title>
+    <link rel="icon" type="images/logo.png" href="/images/logo.png">
+    <link rel="stylesheet" href="/main.css">
+    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v6.2.0/css/all.css">
+</head>
+<body>
+    <nav>
+        <div class="navbar-left">
+            <a href="/index.html">
+            <img src="images/logo.png" alt="logo">
+            </a>
+            <h1>Complex Arcade</h1>
+        </div>
+        <div class="navbar-right">
+            <div class="nav-item">
+                <a href="gxmes.html">Games</a>
+                <i class="fas fa-gamepad"></i>
+            </div>
+            <div class="nav-item">
+                <a href="apps.html">Apps</a>
+                <i class="fas fa-mobile-alt"></i>
+            </div>
+            <div class="nav-item">
+                <a href="extras.html">Extras</a>
+                <i class="fas fa-plus"></i>
+            </div>
+            <div class="nav-item">
+                <a href="settings.html">Settings</a>
+                <i class="fas fa-cog"></i>
+            </div>
+    </nav>
+        <div id="particles-js"></div>
+<script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
+<script src="particle.js"></script>
+<div class="settings">
+    <h1 style="text-align: center; color: #ffffff;">Extras</h1>
+</div>
+        </div>
+    </div>
+<div>
+
+
+<div class="extrabox">
+    <link rel="stylesheet" href="/extras.css">
+    <div class="extras-title">Partners</div>
+        <div class="extras-description">
+        <p>Click to view the Partners for Complex Arcade!</p>
+    </div>
+    <button onclick="location.href='/partners.html'">View Partners</button>
+</div>
+
+<div class="extrabox">
+    <div class="extras-title">Credits</div>
+        <div class="extras-description">
+        <p>Click to view the credits for this site!</p>
+    </div>
+    <button onclick="location.href='/credits.html'">View Credits</button>
+</div>
+<div class="extrabox">
+    <div class="extras-title">Anime</div>
+        <div class="extras-description">
+        <p>Click to view a list of anime shows you can watch!</p>
+    </div>
+    <button onclick="location.href='/anime.html'">View Anime</button>
+</div>
+<div class="extrabox">
+    <div class="extras-title">Join Discord Server</div>
+        <div class="extras-description">
+        <p>Join our Discord Server for more updates on the site! [DON'T OPEN AT SCHOOL!]</p>
+    </div>
+    <button onclick="location.href='https://dsc.gg/complexarcade'">Open Discord!</button>
+</div>
+
+
+            <script>
+function openCloaked(url, title = "Cloaked Tab") {
+    const win = window.open('about:blank', '_blank');
+    if (!win) return alert("Popup blocked!");
+
+    win.document.title = title;
+    win.document.body.style.margin = "0";
+    win.document.body.style.height = "100vh";
+    const iframe = win.document.createElement('iframe');
+    iframe.src = url;
+    iframe.style.border = "none";
+    iframe.style.width = "100vw";
+    iframe.style.height = "100vh";
+    win.document.body.appendChild(iframe);
+}
+
+function setCustomSettings() {
+    const title = document.getElementById("websiteTitle").value;
+    const faviconUrl = document.getElementById("faviconUrl").value;
+
+    if (title) {
+        document.title = title;
+        localStorage.setItem("customTitle", title); // Save to localStorage
+    }
+    if (faviconUrl) {
+        let link = document.querySelector("link[rel*='icon']") || document.createElement("link");
+        link.type = "image/x-icon";
+        link.rel = "shortcut icon";
+        link.href = faviconUrl;
+        document.getElementsByTagName("head")[0].appendChild(link);
+        localStorage.setItem("customFavicon", faviconUrl); // Save to localStorage
+    }
+}
+</script>
+
+
+</script>
+    
+    <footer class="site-footer">
+  <div class="footer-left">
+    <a href="/index.html" class="footer-logo">
+      <img src="/images/logo.png" alt="Complex Arcade logo">
+      <span>Complex Arcade</span>
+    </a>
+  </div>
+  <div class="footer-right">
+    <div class="footer-item"><a href="/contact.html">Contact Us</a></div>
+    <div class="footer-item"><a href="/privacy.html">Privacy Policy</a></div>
+    <div class="footer-item"><a href="/about.html">About Us</a></div>
+    <div class="footer-item"><a href="/tos.html">Terms of Service</a></div>
+  </div>
+</footer>
+
+</body>
+</html>
+

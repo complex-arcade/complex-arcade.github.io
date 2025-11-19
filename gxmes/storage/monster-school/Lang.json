@@ -1,0 +1,104 @@
+{
+    "c2array": true,
+    "size": [
+        2,
+        15,
+        1
+    ],
+    "data": [
+        [
+            [
+                "ШКОЛА МОНСТРОВ 3"
+            ],
+            [
+                "Свайпни"
+            ],
+            [
+                "Рисуй!&И береги свои блоки!"
+            ],
+            [
+                "Рисуй дорогу и потолок, чтобы избежать опасностей!&И береги свои блоки!"
+            ],
+            [
+                "Коснись"
+            ],
+            [
+                "Рисуй дорогу и потолок, чтобы избежать зомби!&И береги свои блоки!"
+            ],
+            [
+                "НОВАЯ ИГРА"
+            ],
+            [
+                "ПРОДОЛЖИТЬ"
+            ],
+            [
+                "Урок Num. Рисование"
+            ],
+            [
+                "Урок Num. Обунга"
+            ],
+            [
+                "Урок Num. Осада Замка"
+            ],
+            [
+                "Урок Num. Зомби Апокалипсис"
+            ],
+            [
+                "Урок Num. Золотой Остров"
+            ],
+            [
+                "вы точно хотите выйти?"
+            ],
+            [
+                "КЛИКНИ"
+            ]
+        ],
+        [
+            [
+                "MONSTER SCHOOL 3"
+            ],
+            [
+                "Swipe"
+            ],
+            [
+                "Draw!&And save your blocks!\n"
+            ],
+            [
+                "Draw a road and a roof to avoid dangers!&And save your blocks!\n"
+            ],
+            [
+                "Tap"
+            ],
+            [
+                "Draw a road and a roof to avoid zombies!&And save your blocks!\n"
+            ],
+            [
+                "New game"
+            ],
+            [
+                "Continue"
+            ],
+            [
+                "Lesson Num. Drawing"
+            ],
+            [
+                "Lesson Num. Obunga Face"
+            ],
+            [
+                "Lesson Num. Castle Siege"
+            ],
+            [
+                "Lesson Num. Zombie Apocalypse"
+            ],
+            [
+                "Lesson Num. Golden Island"
+            ],
+            [
+                "are you sure you want to go out?"
+            ],
+            [
+                "CLICK"
+            ]
+        ]
+    ]
+}
