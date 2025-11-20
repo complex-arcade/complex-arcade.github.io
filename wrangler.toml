@@ -1,5 +1,0 @@
-name = "complex-arcade"
-compatibility_date = "2025-11-17"
-
-# The directory Cloudflare Pages will serve.
-pages_build_output_dir = "."
