@@ -1,0 +1,80 @@
+.box-container {
+    background-color: #000000;
+    border: 0.15vw solid #2074f3;
+    border-radius: 0.5vw;
+    padding: 1vw;
+    height: auto;
+    width: 35vw;
+    margin: auto;
+    text-align: center;
+    margin-top: 1vw;
+    transition: transform 0.4s ease;
+}
+
+.box-container:hover {
+    transform: scale(1.08);
+}
+
+.box-title {
+    font-size: 1.5vw;
+    font-weight: bold;
+    margin-bottom: 1vw;
+    color: #ffffff;
+}
+
+.box-description {
+    font-size: 0.9vw;
+    color: #ffffff;
+}
+
+button {
+    background-color: #000000;
+    border: 0.15vw solid #2074f3;
+    border-radius: 0.5vw;
+    padding: 0vw;
+    height: 5vh;
+    width: 10vw;
+    color: #ffffff;
+    font-family: 'Lexend', sans-serif;
+    font-size: 0.9vw;
+    margin: 0.3vw;
+    transition: transform 0.4s ease;
+}
+
+button:hover {
+    transform: scale(1.08);
+}
+
+.box-container input[type="checkbox"] {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    width: 0.5vw;
+    height: 0.5vw;
+    background-color: rgb(34, 34, 34); 
+    border: 0.14vw solid #3f91ee; 
+    border-radius: 0.208vw;
+    margin-left: 0.521vw; 
+    vertical-align: middle;
+    transition: transform 0.3s ease, background-color 0.3s ease; 
+}
+
+.entryText1 {
+    border: 0.15vw solid #2074f3;
+    border-radius: 0.2vw;
+    background-color: #000000;
+    color: #ffffff;
+    font-family: 'Lexend', sans-serif;
+    font-size: 1vw;
+    padding: 0.3vw;
+}
+
+.entryText2 {
+    border: 0.15vw solid #2074f3;
+    border-radius: 0.2vw;
+    background-color: #000000;
+    color: #ffffff;
+    font-family: 'Lexend', sans-serif;
+    font-size: 1vw;
+    padding: 0.3vw;
+}
